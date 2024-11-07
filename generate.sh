@@ -1,0 +1,1 @@
+comunica-web-client-generator config.json -c ./comunica-feature-link-traversal/engines/query-sparql-link-traversal -s ./setting.json -q ./queries
